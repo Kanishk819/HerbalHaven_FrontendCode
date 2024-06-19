@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Hi I am Kanishk and this is the frontend code for the ecommerce website HerbalHaven
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
